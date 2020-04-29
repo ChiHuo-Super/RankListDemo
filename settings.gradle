@@ -1,0 +1,2 @@
+rootProject.name='RankList'
+include ':app'
