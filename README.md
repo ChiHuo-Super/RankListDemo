@@ -5,6 +5,6 @@
 ![](https://i.loli.net/2020/04/22/TR6eSPdG1CxzuXU.png)
 
 v1.0.0版本  
-1、以RecyclerView等控件为基础，封装成便于操作的控件 
+1、以RecyclerView等控件为基础，封装成便于操作的控件  
 2、封装了用户信息显示、信息隐匿、样式自定义等方法  
 3、可自行设置显示样式 
