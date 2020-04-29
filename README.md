@@ -2,7 +2,7 @@
 通过组合控件实现排行榜，突出前三
 
 显示效果  
-![](https://i.loli.net/2020/04/22/TR6eSPdG1CxzuXU.png)
+![](https://i.loli.net/2020/04/29/uo6r1L5hjK2VymP.png)
 
 v1.0.0版本  
 1、以RecyclerView等控件为基础，封装成便于操作的控件  
