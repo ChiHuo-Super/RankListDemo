@@ -1,5 +1,5 @@
 # RankListDemo
-通过组合控件实现排行榜，突出前三
+通过组合控件实现排行榜，突出前三名
 
 显示效果  
 ![](https://i.loli.net/2020/04/29/uo6r1L5hjK2VymP.png)
