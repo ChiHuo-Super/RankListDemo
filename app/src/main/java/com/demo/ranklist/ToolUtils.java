@@ -46,4 +46,5 @@ public class ToolUtils {
             cimgView.setImageResource(R.drawable.new_user);
         }
     }
+
 }
